@@ -125,7 +125,7 @@
             // 
             // btnFetchPrice
             // 
-            this.btnFetchPrice.Location = new System.Drawing.Point(161, 233);
+            this.btnFetchPrice.Location = new System.Drawing.Point(308, -77);
             this.btnFetchPrice.Name = "btnFetchPrice";
             this.btnFetchPrice.Size = new System.Drawing.Size(75, 23);
             this.btnFetchPrice.TabIndex = 16;

@@ -119,7 +119,7 @@
             // 
             // btnAddFromCSV
             // 
-            this.btnAddFromCSV.Location = new System.Drawing.Point(406, 277);
+            this.btnAddFromCSV.Location = new System.Drawing.Point(397, 277);
             this.btnAddFromCSV.Name = "btnAddFromCSV";
             this.btnAddFromCSV.Size = new System.Drawing.Size(101, 23);
             this.btnAddFromCSV.TabIndex = 9;

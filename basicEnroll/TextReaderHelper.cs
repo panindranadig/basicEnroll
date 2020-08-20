@@ -21,7 +21,7 @@ namespace Twinkle
     class TextReaderHelper
     {
 
-      
+       
 
             public static Match match1;
         private static FileInfo[] files;

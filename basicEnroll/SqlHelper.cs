@@ -116,7 +116,7 @@ namespace Twinkle
         /// <param name="phone"></param>
         /// <returns></returns>
         public static bool UserExists(string user,string phone,out int id)
-        {
+        { 
 
             string queryString = "select id from customer where customer_name = " + user + " OR+ phone_number = " + phone;
             id = 0;

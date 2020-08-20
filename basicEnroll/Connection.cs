@@ -15,6 +15,7 @@ namespace Twinkle
     /// </summary>
     class Connection
     {
+         
         SqlCommand cmd;
         DataSet ds;
         DataTable dt;
